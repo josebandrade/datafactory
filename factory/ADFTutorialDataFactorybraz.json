@@ -1,0 +1,9 @@
+{
+	"name": "ADFTutorialDataFactorybraz",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ffb2ef84-5908-401d-a758-2c50ce707a64",
+		"tenantId": "864ee999-c538-44a0-bddd-0449de62df6d"
+	}
+}
